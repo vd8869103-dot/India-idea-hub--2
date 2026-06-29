@@ -1,0 +1,6 @@
+{
+  "name": "India Idea Hub",
+  "description": "Share and discover startup, business, technology, and social impact ideas across India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
